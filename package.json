@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/node": "^22.19.1",
+    "ethers": "^6.14.0",
+    "hardhat": "^2.27.0",
+    "typescript": "~5.8.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
